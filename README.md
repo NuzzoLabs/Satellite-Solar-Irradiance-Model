@@ -52,7 +52,7 @@ satellite-solar-flux-analysis/
 │   ├── solar_flux_analysis.m
 │   └── run_solar_flux_analysis.m
 ├── data/
-│   ├── orbit_data_no_maneuver.tsv
+│   ├── orbit_data_no_maneuver.csv
 │   └── README.md
 ├── docs/
 │   └── original_script_2019.m

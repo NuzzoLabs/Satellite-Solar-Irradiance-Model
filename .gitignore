@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+
+# Generated outputs
+results/
+*.fig
+*.png
+*.mat
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
